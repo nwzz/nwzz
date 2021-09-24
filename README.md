@@ -1,6 +1,6 @@
 ### Hi there, I'm Shahnewaz -  [nwzz][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=nwzz.me&style=for-the-badge&url=https%3A%2F%2Fnwzz.me)](https://developers.google.com/profile/u/116142173162936428267)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Developer, and Teacher!!
